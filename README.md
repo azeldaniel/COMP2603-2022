@@ -17,3 +17,7 @@ Introduction to class and instance variables, equals() method, method overloadin
 ## Week 4 (February 7th and 11th)
 
 Introduction to class inheritance, method refinement and replacement.
+
+## Week 5 (February 14th and 18th)
+
+Introduction to polymorphism, method binding and principle of substitutability.
