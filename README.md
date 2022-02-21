@@ -21,3 +21,7 @@ Introduction to class inheritance, method refinement and replacement.
 ## Week 5 (February 14th and 18th)
 
 Introduction to polymorphism, method binding and principle of substitutability.
+
+## Week 6 (February 21st and 25th)
+
+No class (CW Exam 1).
