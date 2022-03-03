@@ -25,3 +25,7 @@ Introduction to polymorphism, method binding and principle of substitutability.
 ## Week 6 (February 21st and 25th)
 
 No class (CW Exam 1).
+
+## Week 7 (March 4th)
+
+Graphical User Interfaces (GUI) in Java.
