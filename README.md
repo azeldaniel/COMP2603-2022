@@ -28,4 +28,4 @@ No class (CW Exam 1).
 
 ## Week 7 (March 4th)
 
-Graphical User Interfaces (GUI) in Java.
+Abstract classes and interfaces. Introduction to Graphical User Interfaces (GUI) in Java.
