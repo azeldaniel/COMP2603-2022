@@ -29,3 +29,7 @@ No class (CW Exam 1).
 ## Week 7 (March 4th)
 
 Abstract classes and interfaces. Introduction to Graphical User Interfaces (GUI) in Java.
+
+## Week 8 (March 7th)
+
+More practice with GUIs in Java. No class on Friday due to MyeLearning outage.
