@@ -33,3 +33,7 @@ Abstract classes and interfaces. Introduction to Graphical User Interfaces (GUI)
 ## Week 8 (March 7th)
 
 More practice with GUIs in Java. No class on Friday due to MyeLearning outage.
+
+## Week 9 (March 14th and 18th)
+
+Concrete collections in Java.
