@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package lab8;
+package lab8.m1;
 
 /**
  *
@@ -15,14 +15,8 @@ public class Lab8 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        SummerCampForm form = new SummerCampForm();
-        form.setVisible(true);
+        SummerCampForm gui = new SummerCampForm();
+        gui.setVisible(true);
     }
     
 }
-
-
-
-// 5 min break
-
-
