@@ -37,3 +37,7 @@ More practice with GUIs in Java. No class on Friday due to MyeLearning outage.
 ## Week 9 (March 14th and 18th)
 
 Concrete collections in Java.
+
+## Week 10 (March 22nd and 25th)
+
+More practice with GUIs, domain classes and concrete collections in Java.
