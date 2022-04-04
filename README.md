@@ -41,3 +41,11 @@ Concrete collections in Java.
 ## Week 10 (March 22nd and 25th)
 
 More practice with GUIs, domain classes and concrete collections in Java.
+
+## Week 11 (March 28th abd April 1st)
+
+No class (CW Exam 2).
+
+## Week 12 (April 4th and 8th)
+
+More collections practice in Java.
