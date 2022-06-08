@@ -1,3 +1,7 @@
+Notice: This repo was archived on June 8th, 2022.
+
+---
+
 # COMP2603-2022
 
 This repository contains lab material for Object Oriented Programming I at the University of the West Indies, St. Augustine. Note that this repository created for code sharing convenience, and all solutions may be redacted at the end of the academic year in 2022.
